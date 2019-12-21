@@ -1,7 +1,8 @@
 # FeminstTextAnalysis
 Repository for DH72500
 
-## Map
+## Map/Contents
+* ReadMe: this file
 * Jupyter Notebooks -- In the "Jupyter notebooks" folder above: https://github.com/prezgarfield/FeminstTextAnalysis/tree/master/Jupyter%20notebooks
 * Final Paper -- In the "Final Paper" folder above, titled "finalpaper.pynb": https://github.com/prezgarfield/FeminstTextAnalysis/blob/master/final_paper/finalpaper.ipynb
 
