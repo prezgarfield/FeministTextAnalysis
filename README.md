@@ -1,5 +1,11 @@
-# FeminstTextAnalysis
+# FeministTextAnalysis
 Repository for DH72500
+
+## Name, Contact and Course
+Name: James (Rob) Garfield
+email: rob.garfield@qc.cuny.edu
+phone: 901-351-9588
+Course: DHUM72500
 
 ## Map/Contents
 * ReadMe: this file
