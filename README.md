@@ -1,9 +1,10 @@
 # FeminstTextAnalysis
 Repository for DH72500
 
-Map
+## Map
+* Jupyter Notebooks
 
-DataCamp Tutorials:
+## DataCamp Tutorials:
 * Introduction to Git for Data Science
 * Manipulating Files and Directories
 * Manipulating Data
