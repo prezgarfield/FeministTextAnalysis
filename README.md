@@ -2,7 +2,7 @@
 Repository for DH72500
 
 ## Map
-* Jupyter Notebooks
+* Jupyter Notebooks -- In the folder above: https://github.com/prezgarfield/FeminstTextAnalysis/tree/master/Jupyter%20notebooks
 
 ## DataCamp Tutorials:
 * Introduction to Git for Data Science
